@@ -13,7 +13,7 @@ The dataset contains 9 dialects from various regions of UK. Recordings of male a
 * **Belfast** in Northern Ireland
 * **Dublin** in the Republic of Ireland.
 
-Three of our speaker groups are from ethnic minorities: we have recorded bilingual **Punjabi-English** speakers, bilingual **Welsh-English** speakers and speakers of **Caribbean** descent.
+Three of the speaker groups are from ethnic minorities: The dataset contains recordings of bilingual **Punjabi-English** speakers, bilingual **Welsh-English** speakers and speakers of **Caribbean** descent.
 
 The dataset has 9 folders with 67 audio samples each. The audio samples are narrations of a Cinderella passage which can be found [here](http://www.phon.ox.ac.uk/files/apps/IViE/stimuli.php).
 
